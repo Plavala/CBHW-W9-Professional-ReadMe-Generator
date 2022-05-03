@@ -6,12 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Plavala/CBHW-W9-Professional-ReadMe-Generator"
   },
-
+  
   "author": "Oscar Salgado",
   "license": "MIT",
   "bugs": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Plavala/CBHW-W9-Professional-ReadMe-Generator",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "react-scripts": "^5.0.1"
   }
 }
